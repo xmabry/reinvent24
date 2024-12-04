@@ -15,4 +15,6 @@ ORG > QA > App
 ## Consul
 Service mesh has to have a proxy deploy
 
+![Whiteboard](../photos/Hashi/HashiWhiteboard.jpg)
+
 
