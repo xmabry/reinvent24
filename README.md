@@ -19,11 +19,13 @@ Before the re:Invent sessions started there were a few announcements on the use 
 
 
 ## Day 1
+Step Count: 15,854
 - [COP 202](day1/COP202-INT.md)
 - [COP 404](day1/COP404-SC1.md)
 - [SEC 326](day1/SEC326.md)
 
 ## Day 2
+Step Count: 17,529
 - [COP 315](day2/COP315.md)
 - [COP 326](day2/COP326.md)
 - [Datadog Breakfast](day2/DataDogBreakfast.md)
@@ -31,6 +33,7 @@ Before the re:Invent sessions started there were a few announcements on the use 
 - [ObservabilityBooth](day2/ObservabilityBooth.md)
 
 ## Day 3
+Step Count: 17,490
 - [STG 323](day3/STG323.md)
 - [SUP 401](day3/SUP401.md)
 - [SUP 402](day3/SUP402-R.md)
