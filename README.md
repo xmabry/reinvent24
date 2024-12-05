@@ -39,5 +39,9 @@ Step Count: 17,490
 - [SUP 402](day3/SUP402-R.md)
 
 ## Day 4
-
+- [COP 380](day4/COP380-NEW.md)
+- [DOP 220](day4/DOP220-INT-SC2.md)
+- [ENU 311](day4/ENU311.md)
+- [Keynote](day4/Keynote.md.md)
+- [SVS 318](day4/SVS318.md)
 
